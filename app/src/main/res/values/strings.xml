@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Nearby Business</string>
+
+    <string name="login_string">Already have an account? <b>Login here</b></string>
+    <string name="API_KEY">AIzaSyBTZ_UKkpxwuu6i0qYHilyeISTHh30ZGHE</string>
+
+    <string name="open_navigation_drawer">Open Navigation</string>
+    <string name="close_navigation_drawer">Open Navigation</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">An Android Application To Search Nearby Business Using Kotlin - Project 1</string>
+</resources>
